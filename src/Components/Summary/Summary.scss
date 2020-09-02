@@ -1,0 +1,27 @@
+.summary-section{
+  background-color: #222222;
+  margin-top: 50px;
+
+
+  .Summary-card{
+    .card-title{
+      font-size: 18px;
+      text-transform: uppercase;
+      font-weight: 400;
+      margin-bottom: 15px;
+    }
+    p{
+      font-size: 13px;
+      line-height: 20px;
+      color: #222222;
+      span{
+        display: block;
+        margin: 5px 0;
+      }
+      svg{
+        margin-right: 10px;
+        color: #4C9DED;
+      }
+    }
+  }
+}

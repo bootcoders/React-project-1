@@ -1,0 +1,26 @@
+.footer-section{
+  border-top: 1px solid rgba(0, 115, 230, 0.5);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgba(0, 115, 230, 0.1);
+}
+.footer_card{
+  h3{
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+  }
+  address{
+    font-size: 13px;
+  }
+  a{
+    display: block;
+    color: #222222;
+    font-size: 12px;
+    line-height: 20px;
+    svg{
+      margin-right: 5px;
+      color: #4C9DED;
+    }
+  }
+}

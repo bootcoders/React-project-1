@@ -1,0 +1,29 @@
+.how-do__inner{
+  box-shadow: 0 0 10px rgba(0,0,0,.1);
+  padding: 100px;
+  text-align: center;
+  margin-bottom: 100px;
+  border-radius: 5px;
+}
+.how-do__head{
+  h3{
+    font-size: 24px;
+    font-weight: 400;
+    color: #4C9DED;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+  }
+}
+.how-do__desc{
+  p{
+    font-size: 13px;
+    color: #666666;
+  }
+
+}
+.how-do__video{
+  svg{
+    font-size: 50px;
+
+  }
+}

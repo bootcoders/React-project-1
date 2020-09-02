@@ -1,0 +1,39 @@
+.contact-form__head{
+  h3{
+    font-size: 18px;
+    margin-bottom: 20px;
+    display: block;
+  }
+}
+.contact-form__box{
+  label{
+    font-size: 13px;
+    color: #666666;
+    display: block;
+    margin: 0;
+  }
+  .form-control{
+    font-size: 13px;
+    &:focus{
+      box-shadow: none;
+      border-color: #666666;
+    }
+  }
+}
+.contact-address__head{
+  h3{
+    font-size: 18px;
+    margin-bottom: 20px;
+    display: block;
+  }
+}
+.contact-address__box{
+  address{
+    font-size: 13px;
+    margin-bottom: 30px;
+  }
+  a{
+    display: block;
+    color: #666666;
+  }
+}

@@ -1,0 +1,20 @@
+.aboutDesc-card{
+  margin-bottom: 40px;
+  &:last-child{
+    margin-bottom: 0;
+  }
+  h3{
+    font-size: 16px;
+    font-weight: 400;
+    color:#222;
+    border-bottom: 1px solid #ddd;
+    display: block;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+  }
+  p{
+    font-size:13px;
+    color: #666666;
+    line-height: 20px;
+  }
+}
